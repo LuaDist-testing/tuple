@@ -2,7 +2,9 @@ tuple
 =========
 
 [![Build Status](https://travis-ci.org/Yonaba/tuple.lua.png)](https://travis-ci.org/Yonaba/tuple.lua)
-
+[![Coverage Status](https://coveralls.io/repos/Yonaba/tuple.lua/badge.png?branch=master)](https://coveralls.io/r/Yonaba/tuple.lua?branch=master)
+[![Lua](https://img.shields.io/badge/Lua-5.1%2C%205.2%2C%205.3%2C%20JIT-blue.svg)]()
+[![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE)
 
 ###Tuples ?
 
@@ -10,7 +12,7 @@ tuple
 >In mathematics, computer science, linguistics, and philosophy, a tuple is an >ordered list of elements. In set theory, an (ordered) n-tuple is a sequence (or >ordered list) of n elements, where n is a non-negative integer.
 
 
-*tuple* is a minimal implementation of *ordered n-tuples* in Lua. I started working on it as a dependency for some personal work, then I dediced to wrap it and share it as a standalone module.
+*tuple* is a minimal implementation of *ordered n-tuples* in Lua. I started working on it as a dependency for some personal work, then I decided to share it as a standalone module.
 
 ###Installation
 
